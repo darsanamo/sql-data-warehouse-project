@@ -38,3 +38,4 @@ These insights enpower stakeholders with key business metrics, enabling strategi
 This project is licensed under the (MIT Licence) You are free to use, modify and sahre this project with proper attribution
 
 ## About us 
+Hey friends, I'm Darwin. I'm an electronics professional on a mission to share years of tech knowledge and make working with data fun.
